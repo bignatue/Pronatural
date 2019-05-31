@@ -1,0 +1,16 @@
+
+
+.btn, .form-control,.custom-select{border-radius: 0px;}
+
+.form-signin{margin-top: 7%;}
+
+.display-none{display: none;}
+
+
+/** mobile responsive */
+@media only screen and (max-width: 600px) {
+  body {
+      padding-top: 2rem;
+  }
+  .navbar-brand{width: 200px;}
+}
